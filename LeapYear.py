@@ -12,3 +12,4 @@ def leap_year(year):
         return '{} is not a leap year'.format(year)
     
 print (leap_year(2019))
+print (leap_year(2000))
